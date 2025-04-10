@@ -1,0 +1,18 @@
+# General
+node_modules/
+dist/
+build/
+tmp/
+*.log
+.env
+
+# .NET Core Backend
+Backend/bin/
+Backend/obj/
+Backend/**/*.csproj.user
+Backend/**/*.suo
+Backend/Properties/launchSettings.json
+
+# Angular Frontend
+Frontend/node_modules/
+Frontend/dist/
